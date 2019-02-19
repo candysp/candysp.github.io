@@ -1,3 +1,1 @@
 # candysp.github.io
-
-
